@@ -8,7 +8,7 @@
     "test": "vitest run index.test.ts --test-timeout 60000"
   },
   "dependencies": {
-    "@orca-so/whirlpools": "*"
+    "@orca-so/whirlpools": "0.0.1"
   },
   "devDependencies": {
     "tsx": "^4.19.0",
